@@ -1,0 +1,25 @@
+Testcase 1:
+This program will bounce a ball.
+Your x coordinate must be larger than the y coordinate.
+Enter an x coordinate: hello
+Not an integer
+Enter an x coordinate: -3
+Not an integer
+Enter an x coordinate: 5
+Not a valid input
+Enter an x coordinate: 500
+Not a valid input
+Enter an x coordinate: 200
+Enter a y coordinate: hi
+Not an integer
+Enter a y coordinate: -400
+Not an integer
+Enter a y coordinate: 600
+Not a valid input
+Enter a y coordinate: 300
+Your x coordinate must be larger than the y coordinate.
+Enter an x coordinate: 300
+Enter a y coordinate: 200
+
+Process finished with exit code 0
+#The ball successfully bounced.
